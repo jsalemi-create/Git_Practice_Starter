@@ -2,7 +2,7 @@
 
 ## Team
 - Student A:Joe Salemi
-- Student B:
+- Student B:Bryce P
 
 Additional change made
 
